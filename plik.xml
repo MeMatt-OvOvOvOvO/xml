@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Spiele>
+    <Spiel>
+        <ID>1</ID>
+        <Name>asdf</Name>
+        <Bild>DOOM-Eternal.jpg</Bild>
+        <Autor>autor1</Autor>
+        <Zeitschrift>zeitschrift1</Zeitschrift>
+    </Spiel>
+    <Spiel><ID>2</ID><Name>dfgsd</Name><Bild>DOOM-Eternal.jpg</Bild><Autor>asdf</Autor><Zeitschrift>asdfasdf</Zeitschrift></Spiel></Spiele>
